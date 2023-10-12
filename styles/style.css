@@ -1,0 +1,37 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color:rgb(31, 223, 248);
+    margin: 0px 0rem;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    margin: auto;
+    background-color: white;
+
+}
+
+table,
+th,
+td {
+    padding: 10px;
+    border: 1px solid burlywood;
+
+}
+
+.table-container {
+    display: flex;
+    flex-direction: column;
+    height: 30vh;
+    padding: 0px 50px ;
+}
